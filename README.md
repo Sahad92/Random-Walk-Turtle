@@ -12,7 +12,7 @@ Feel free to customize the program as per your preferences:
 - Modify the `speed()` function to change the speed of turtle.
 - Adjust the number in the `range()` function to control steps taken by the turtle.
 
-![Image](.//image.png)
+![Image](./image.png)
 
 
 
